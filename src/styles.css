@@ -1,0 +1,12 @@
+.App {
+  font-family: sans-serif;
+  text-align: center;
+}
+.jai{
+  background-color: rgb(221, 34, 34);
+width: 100%;
+text-align: left;
+}
+th, td{
+  border: solid 1px yellow;
+}
